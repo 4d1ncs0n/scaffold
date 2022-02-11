@@ -1,5 +1,7 @@
-name: azure Python 3.7
+name: Azure Python 3.7
+
 on: [push]
+
 jobs:
   build:
     runs-on: ubuntu-latest
